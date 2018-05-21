@@ -1,2 +1,2 @@
 # IONIC-3-RESTAPI
-ionic 3 Get and Post  call
+ionic 3 GET and POST  call
